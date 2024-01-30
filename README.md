@@ -11,11 +11,6 @@ The exploration begins with a detailed data preprocessing step, setting the stag
 
 
 
-# Display the top 10 causes
-print("Top 10 Causes of Overdue based on specified features:")
-print(top_10_causes)
-Future Applications in Project Management
-The insights gained from this project hold significant implications for future project management strategies in the construction industry:
 
 Optimized Resource Allocation: Identify patterns in task overdues to optimize resource allocation and streamline project schedules.
 
